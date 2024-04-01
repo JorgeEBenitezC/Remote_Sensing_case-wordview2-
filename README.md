@@ -15,7 +15,7 @@ dependências:
     geopandas==0.14.3
     matplotlib==3.7.1  
     opencv-python==4.8.0.76 
-    pycocotools
+    pycocotools==2.0.7
     rasterio==1.3.9
     segmentation-models==1.0.1
     scikit-image==0.19.3
