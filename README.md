@@ -47,7 +47,9 @@ models: Diretório que contém os modelos de visão computacional;
 
 ## RGBimage segmentation.
     python HSV_segmentation.py --data_dir='your_path_here'
-    
+
+![airport](https://github.com/JorgeEBenitezC/Remote_Sensing_case-wordview2-/assets/164698211/dd07db29-2c85-4866-a9d6-3d927baa0425)
+
 ![img_2_HB](https://github.com/JorgeEBenitezC/Remote_Sensing_case-wordview2-/assets/164698211/ccea159d-f752-4c5b-aead-91aad8e8fbf8)
 
     
