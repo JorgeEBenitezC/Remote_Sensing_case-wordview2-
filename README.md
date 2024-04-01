@@ -9,8 +9,8 @@ A execução de todos os scripts nesse repositório foi feita em um ambiente vir
 ## Installation
 ### Ambiente virtual
 dependências:
-    Python 3.10.12
 
+    Python==3.10.12
     albumentations==1.3.1 
     geopandas==0.14.3
     matplotlib==3.7.1  
