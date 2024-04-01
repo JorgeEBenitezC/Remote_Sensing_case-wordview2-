@@ -6,6 +6,11 @@ O processamento de imagens foi realizado por meio de técnicas clássicas de vis
 
 A execução de todos os scripts nesse repositório foi feita em um ambiente virtual python, alem espera-se que a estrutura de pastas seja a mostrada abaixo.
 
+O repositório tem um arquivo "Dockerflie" para a virtualização do ambiente via Docker.
+Use o seguinte comando para executá-lo:
+    
+    docker build -t 'nome_do_seu_contêiner_aqui' .
+
 ## Installation
 ### Ambiente virtual
 dependências:
