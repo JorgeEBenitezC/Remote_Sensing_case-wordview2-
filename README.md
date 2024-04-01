@@ -38,11 +38,22 @@ models: Diretório que contém os modelos de visão computacional;
 ## Salt & Pepper noise reduction.
     python Filtro_gaussiano.py  --data_dir='your_path_here'
 
+![img_1_GH](https://github.com/JorgeEBenitezC/Remote_Sensing_case-wordview2-/assets/164698211/2b17e7b8-7a26-4329-a584-43937e5b5d54)
+
 ## RGBimage segmentation.
     python HSV_segmentation.py --data_dir='your_path_here'
     
+![img_2_HB](https://github.com/JorgeEBenitezC/Remote_Sensing_case-wordview2-/assets/164698211/ccea159d-f752-4c5b-aead-91aad8e8fbf8)
+
+    
 ## Raster segmentation.
     python NDVI_segmentation.py --data_dir='your_path_here'
+    
+![img3_HB](https://github.com/JorgeEBenitezC/Remote_Sensing_case-wordview2-/assets/164698211/fd8663f5-75ef-47e6-9624-9d664e3faca5)
+
 
 ## deep_learning segmentation.
     python main.py 
+    
+![img_4_HB](https://github.com/JorgeEBenitezC/Remote_Sensing_case-wordview2-/assets/164698211/3af51f28-45b6-45f1-9869-daabc662860c)
+
