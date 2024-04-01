@@ -57,3 +57,6 @@ models: Diretório que contém os modelos de visão computacional;
     
 ![img_4_HB](https://github.com/JorgeEBenitezC/Remote_Sensing_case-wordview2-/assets/164698211/3af51f28-45b6-45f1-9869-daabc662860c)
 
+## docker img.
+    https://drive.google.com/file/d/1KWoOoxx0aXMjtTyXK9KZlj7DgImHWYZV/view?usp=drive_link
+
